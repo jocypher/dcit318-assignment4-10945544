@@ -1,5 +1,7 @@
 ﻿namespace LogInApp
 {
+
+    
     partial class Form1
     {
         private System.ComponentModel.IContainer components = null;
@@ -9,9 +11,12 @@
             if (disposing && (components != null))
             {
                 components.Dispose();
+
             }
             base.Dispose(disposing);
         }
+
+
 
         private void InitializeComponent()
         {
