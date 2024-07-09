@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\LogInApp\AddressBook\bin\Debug\AddressBook.exe.config
+C:\Users\Acer\source\repos\LogInApp\AddressBook\bin\Debug\AddressBook.exe
+C:\Users\Acer\source\repos\LogInApp\AddressBook\bin\Debug\AddressBook.pdb
+C:\Users\Acer\source\repos\LogInApp\AddressBook\obj\Debug\AddressBook.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\LogInApp\AddressBook\obj\Debug\AddressBook.Form1.resources
+C:\Users\Acer\source\repos\LogInApp\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+C:\Users\Acer\source\repos\LogInApp\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\LogInApp\AddressBook\obj\Debug\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\LogInApp\AddressBook\obj\Debug\AddressBook.exe
+C:\Users\Acer\source\repos\LogInApp\AddressBook\obj\Debug\AddressBook.pdb

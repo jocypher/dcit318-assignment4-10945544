@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\LogInApp\LogInApp\bin\Debug\LogInApp.exe.config
+C:\Users\Acer\source\repos\LogInApp\LogInApp\bin\Debug\LogInApp.exe
+C:\Users\Acer\source\repos\LogInApp\LogInApp\bin\Debug\LogInApp.pdb
+C:\Users\Acer\source\repos\LogInApp\LogInApp\obj\Debug\LogInApp.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\LogInApp\LogInApp\obj\Debug\LogInApp.Form1.resources
+C:\Users\Acer\source\repos\LogInApp\LogInApp\obj\Debug\LogInApp.Properties.Resources.resources
+C:\Users\Acer\source\repos\LogInApp\LogInApp\obj\Debug\LogInApp.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\LogInApp\LogInApp\obj\Debug\LogInApp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\LogInApp\LogInApp\obj\Debug\LogInApp.exe
+C:\Users\Acer\source\repos\LogInApp\LogInApp\obj\Debug\LogInApp.pdb
